@@ -14,5 +14,7 @@
 * [A gentle introduction to network science](https://www.youtube.com/watch?v=L6CqqlILBCI)
 * [Youtube - Social network analysis - Introduction to structural thinking](https://www.youtube.com/watch?v=2ZHuj8uBinM)
 
+## Packages
+* [NetworkX](https://networkx.org/)
 ## Others
 * [Network Science](https://networksciencebook.com/)
