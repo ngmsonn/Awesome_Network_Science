@@ -16,5 +16,6 @@
 
 ## Packages
 * [NetworkX](https://networkx.org/)
+* [graph-tool](https://graph-tool.skewed.de/)
 ## Others
 * [Network Science](https://networksciencebook.com/)
