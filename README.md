@@ -8,5 +8,9 @@
 ## Courses
 * [Youtube - Introduction to Social Network Analysis](https://www.youtube.com/playlist?list=PL4iQXwvEG8CQSy4T1Z3cJZunvPtQp4dRy)
 
+## Videos
+* [A gentle introduction to network science](https://www.youtube.com/watch?v=L6CqqlILBCI)
+* [Youtube - Social network analysis - Introduction to structural thinking](https://www.youtube.com/watch?v=2ZHuj8uBinM)
+
 ## Others
 * [Network Science](https://networksciencebook.com/)
