@@ -19,3 +19,4 @@
 * [graph-tool](https://graph-tool.skewed.de/)
 ## Others
 * [Network Science](https://networksciencebook.com/)
+* [Github - Awesome Network Analysis](https://github.com/briatte/awesome-network-analysis)
