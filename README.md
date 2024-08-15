@@ -23,6 +23,7 @@
 * [pyvis](https://pyvis.readthedocs.io/en/latest/)
 * [Bokeh](https://bokeh.org/)
 * [Jaal](https://github.com/imohitmayank/jaal?tab=readme-ov-file)
+* [Plotly Graphing Libraries](https://plotly.com/graphing-libraries/)
 
 ## Others
 * [Network Science](https://networksciencebook.com/)
