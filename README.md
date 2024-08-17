@@ -12,6 +12,7 @@
 * [Youtube - Introduction to Social Network Analysis](https://www.youtube.com/playlist?list=PL4iQXwvEG8CQSy4T1Z3cJZunvPtQp4dRy)
 * [Social and Technological Network Analysis](https://www.cl.cam.ac.uk/teaching/1415/L109/materials.html)
 * [NetPy '24: Introduction to Network Science in Python](https://github.com/lovre/netpy24)
+* [Youtube - Network Science 2021 | Lenoid Zhukov](https://www.youtube.com/playlist?list=PLriUvS7IljvkGesFRuYjqRz4lKgodJgh2)
 ## Videos
 * [A gentle introduction to network science](https://www.youtube.com/watch?v=L6CqqlILBCI)
 * [Youtube - Social network analysis - Introduction to structural thinking](https://www.youtube.com/watch?v=2ZHuj8uBinM)
