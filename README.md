@@ -4,6 +4,7 @@
 * [Complex Networks: a Mini-review](https://link.springer.com/article/10.1007/s13538-020-00772-9?fromPaywallRec=true)
 ## Journals
 * [Journal of Complex Networks](https://academic.oup.com/comnet)
+* [Network Science](https://www.cambridge.org/core/journals/network-science)
 ## Books
 * [Data Science and Complex Networks: Real Case Studies with Python](https://academic.oup.com/book/26566)
 * [Network Analysis Made Simple](https://ericmjl.github.io/Network-Analysis-Made-Simple/)
