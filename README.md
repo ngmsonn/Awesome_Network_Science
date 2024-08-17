@@ -5,6 +5,7 @@
 ## Journals
 * [Journal of Complex Networks](https://academic.oup.com/comnet)
 * [Network Science](https://www.cambridge.org/core/journals/network-science)
+* [Applied Network Science](https://appliednetsci.springeropen.com/)
 ## Books
 * [Data Science and Complex Networks: Real Case Studies with Python](https://academic.oup.com/book/26566)
 * [Network Analysis Made Simple](https://ericmjl.github.io/Network-Analysis-Made-Simple/)
