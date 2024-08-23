@@ -4,7 +4,7 @@
 * [Complex Networks: a Mini-review](https://link.springer.com/article/10.1007/s13538-020-00772-9?fromPaywallRec=true)
 
 ## Papers II
-  
+* [Network approaches for modeling the effect of drugs and diseases](https://academic.oup.com/bib/article/23/4/bbac229/6608969)
 ## Journals
 * [Journal of Complex Networks](https://academic.oup.com/comnet)
 * [Network Science](https://www.cambridge.org/core/journals/network-science)
