@@ -27,7 +27,8 @@
 * [Youtube - Social network analysis - Introduction to structural thinking](https://www.youtube.com/watch?v=2ZHuj8uBinM)
 
 ## Videos II
-* [NetworkX Python Overview and Basic Functions Explained [ Learn Better Faster ]](https://www.youtube.com/watch?v=qMB-Go1pnio)
+* [NetworkX Python Overview and Basic Functions Explained](https://www.youtube.com/watch?v=qMB-Go1pnio)
+* [NetworkX Python Graph Types, In-Degree, Out Degree and Graph Types Explained](https://www.youtube.com/watch?v=y2hV2YfcI64)
 
 ## Packages
 * [NetworkX](https://networkx.org/)
