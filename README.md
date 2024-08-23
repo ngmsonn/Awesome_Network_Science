@@ -41,7 +41,7 @@
 * [Plotly Graphing Libraries](https://plotly.com/graphing-libraries/)
 
 ## Datasets
-*[Netzschleuder](https://networks.skewed.de/)
+* [Netzschleuder](https://networks.skewed.de/)
 
 ## Others
 * [Network Science](https://networksciencebook.com/)
