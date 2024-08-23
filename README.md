@@ -40,6 +40,7 @@
 * [Jaal](https://github.com/imohitmayank/jaal?tab=readme-ov-file)
 * [Plotly Graphing Libraries](https://plotly.com/graphing-libraries/)
 * [igraph](https://python.igraph.org/en/stable/index.html)
+* [emerge-viz](https://github.com/glato/emerge)
 
 ## Datasets
 * [Netzschleuder](https://networks.skewed.de/)
