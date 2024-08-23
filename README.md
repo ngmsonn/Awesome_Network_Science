@@ -40,6 +40,9 @@
 * [Jaal](https://github.com/imohitmayank/jaal?tab=readme-ov-file)
 * [Plotly Graphing Libraries](https://plotly.com/graphing-libraries/)
 
+## Datasets
+*[Netzschleuder](https://networks.skewed.de/)
+
 ## Others
 * [Network Science](https://networksciencebook.com/)
 * [VisJS](https://visjs.github.io/vis-network/examples/)
