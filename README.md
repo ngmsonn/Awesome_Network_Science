@@ -51,5 +51,6 @@
 * [VisJS](https://visjs.github.io/vis-network/examples/)
 * [Github - Awesome Network Analysis](https://github.com/briatte/awesome-network-analysis)
 * [Github - Protein-Protein interaction using Networkx](https://github.com/glingden/Protein-Protein-interaction-using-Networkx)
-* [https://medium.com/@msdatashift/ipysigma-easily-visualize-networks-with-thousands-of-nodes-and-edges-in-python-3ecdbe0321de](https://medium.com/@msdatashift/ipysigma-easily-visualize-networks-with-thousands-of-nodes-and-edges-in-python-3ecdbe0321de)
+* [ipysigma — Easily visualize networks with thousands of nodes and edges in Python](https://medium.com/@msdatashift/ipysigma-easily-visualize-networks-with-thousands-of-nodes-and-edges-in-python-3ecdbe0321de)
+* [Github - ipysigma](https://github.com/medialab/ipysigma)
 
