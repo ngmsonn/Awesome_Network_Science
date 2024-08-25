@@ -41,6 +41,7 @@
 * [Plotly Graphing Libraries](https://plotly.com/graphing-libraries/)
 * [igraph](https://python.igraph.org/en/stable/index.html)
 * [emerge-viz](https://github.com/glato/emerge)
+* [ipysigma - Large Network Visuallization](https://pypi.org/project/ipysigma/0.17.0/)
 
 ## Datasets
 * [Netzschleuder](https://networks.skewed.de/)
@@ -50,4 +51,5 @@
 * [VisJS](https://visjs.github.io/vis-network/examples/)
 * [Github - Awesome Network Analysis](https://github.com/briatte/awesome-network-analysis)
 * [Github - Protein-Protein interaction using Networkx](https://github.com/glingden/Protein-Protein-interaction-using-Networkx)
+* []()
 
